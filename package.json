@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jasmine-node spec"
   },
-  "repository": "https://github.com/rikkertkoppes/json2xls",
+  "repository": "https://github.com/stria-llc/json2xls",
   "author": "Rikkert Koppes <rikkert@rikkertkoppes.com",
   "license": "BSD-2-Clause",
   "dependencies": {
